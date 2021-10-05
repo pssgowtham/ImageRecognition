@@ -1,3 +1,3 @@
 # ImageRecognition
 
-#This ia a Image Recognition file
+#This is a Image Recognition file
